@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <limits.h>
-
 #define SKIPLIST_MAX_LEVEL 6
 
 typedef struct snode {
